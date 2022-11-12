@@ -19,3 +19,4 @@ app.use(router);
 app.use(ruta);
 app.listen(3700);
 console.log("Servidor en el puerto 3700...");
+console.log("buans");
